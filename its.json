@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "CEK 1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Bujur": 110.34670, "Lintang": -7.84210}, "geometry": { "type": "Point", "coordinates": [ 110.34670, -7.84210 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.29630, "Lintang": -7.94877}, "geometry": { "type": "Point", "coordinates": [ 110.29630,-7.94877 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.32610, "Lintang": -8.02370}, "geometry": { "type": "Point", "coordinates": [ 110.32610, -8.02370 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28463, "Lintang":-8.00242 }, "geometry": { "type": "Point", "coordinates": [ 110.28463, -8.00242] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28415, "Lintang":-8.00161}, "geometry": { "type": "Point", "coordinates": [ 110.28415, -8.00161] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28410, "Lintang":-8.00240 }, "geometry": { "type": "Point", "coordinates": [ 110.28410,-8.00240 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28400, "Lintang":-8.00240 }, "geometry": { "type": "Point", "coordinates": [ 110.28400, -8.00240 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28400, "Lintang": -8.00250 }, "geometry": { "type": "Point", "coordinates": [ 110.28400, -8.00250 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28390, "Lintang": -8.00250 }, "geometry": { "type": "Point", "coordinates": [ 110.28390, -8.00250] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28330, "Lintang": -8.00280 }, "geometry": { "type": "Point", "coordinates": [ 110.28330, -8.00280 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28290, "Lintang":-8.00320 }, "geometry": { "type": "Point", "coordinates": [ 110.28290, -8.00320 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28246, "Lintang": -8.00340 }, "geometry": { "type": "Point", "coordinates": [ 110.28246, -8.00340] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28216, "Lintang": -8.00356 }, "geometry": { "type": "Point", "coordinates": [ 110.28216, -8.00356] } },
+{ "type": "Feature", "properties": { "Bujur": 110.28120, "Lintang": -8.00350 }, "geometry": { "type": "Point", "coordinates": [ 110.28120, -8.00350 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.31019, "Lintang": -7.98755 }, "geometry": { "type": "Point", "coordinates": [ 110.31019, -7.98755 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.35270, "Lintang": -7.90210}, "geometry": { "type": "Point", "coordinates": [110.35270, -7.90210] } }
+]
+}
